@@ -1,6 +1,19 @@
-# Contact Book
+# Contact Book <!-- omit in toc -->
 
 A Python module to save contact details. The module uses a SQLite database to save contact details including name, address, phone number and email address. Users can then access saved contact details via the command line. The module also allows users to update existing contact information, delete contacts and list all saved contacts.
+
+## Table of Contents <!-- omit in toc -->
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Add Contact](#add-contact)
+  - [Find Contact](#find-contact)
+  - [Edit Contact](#edit-contact)
+  - [Delete Contact](#delete-contact)
+  - [List Contacts](#list-contacts)
+- [Support](#support)
+- [Roadmap](#roadmap)
+- [License](#license)
+- [Project Status](#project-status)
 
 ## Installation
 
